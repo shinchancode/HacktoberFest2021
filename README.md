@@ -3,6 +3,10 @@ Open to Contribution
 
 hacktoberfest-accepted
 
+Computer Graphics 
+
+Data Structure and Algorithms
+
 ## Rules To Contribute To This Repository
 
 -   You can write solutions only in C++ for Data Structure and Algorithms 

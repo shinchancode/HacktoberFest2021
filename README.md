@@ -3,9 +3,9 @@ Open to Contribution
 
 hacktoberfest-accepted
 
-Computer Graphics 
-
 Data Structure and Algorithms
+
+Computer Graphics 
 
 ## Rules To Contribute To This Repository
 

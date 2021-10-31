@@ -35,9 +35,9 @@ int main()
 {
 
 	// #ifndef ONLINE_JUDGE
- //    freopen("input.txt", "r" ,stdin);
- //    freopen("output.txt","w" ,stdout);
- //    #endif
+ 	// freopen("input.txt", "r" ,stdin);
+ 	// freopen("output.txt","w" ,stdout);
+ 	// #endif
 
 
 
@@ -55,34 +55,6 @@ int main()
        }
 
        solve(arr,n,sum);
-   
        
-    
-
-    
-  
-
-
-
-
-
-
-
-     
-   
-    
-
-
-
-
-
-
-  
-
-
-
-
-
-
-return 0;
+	return 0;
 }
